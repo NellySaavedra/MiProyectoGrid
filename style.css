@@ -1,0 +1,132 @@
+
+.ImgHeader {
+	width: 100%;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	border: 4px solid #9EE41C;
+
+}
+li{
+	font-size: 25px;
+	display: inline-block;
+	margin: 110px 0px 0px 15px;
+}
+.florHeader {
+	width: 12px;
+	height: 12px;
+}
+span {
+	color: #CCE41C;
+	font-family: Arial;
+}
+.FontHeader {
+	font-family: Haettenschweiler;
+}
+/*Arrgelo de Section*/
+.Text1 {
+	font-family: PMingLiU-ExtB;
+	font-size: 20px;
+	color: white;
+	background-color: #28212C;
+	text-align: center;
+	padding: 30px 50px;
+	margin-bottom: 22px;
+}
+.TitleMosaico {
+	font-family: Haettenschweiler;
+	font-size: 30px;
+	text-align: center;
+}
+hr {
+	margin-top: 22px;
+	width: 100%
+	height: 10px;
+	background-color: #B10C46;
+}
+.MosaicoImg {
+	width: 180px;
+	height: 180px;
+	margin-top: 30px;
+	border: 2px solid #C2CCCD;
+}
+/*seccion informativa. Lado Iqz*/
+
+table {
+	margin-top: 30px;
+	margin-bottom: 30px;
+	border: 1px solid #9EE41C;
+}
+td {
+	font-family: Arial;
+}
+em {
+	font-family: Narkisim;
+	color: #071773;
+}
+.IcoImg {
+	width: 35px;
+	height: 35px;
+	border: 2px solid gray;
+	padding: 3px;		 
+}
+.Col1 {
+	width: 60px;
+	height: 60px;
+	padding: 10px 10px;
+}
+.Col2 {
+	width: 230px;
+}
+.imgColIqz {
+	width: 87%;
+	margin: 30px 0px;	
+	margin-left: 15px;
+}
+.TextInfo{
+	font-family: Arial; 
+	text-align: justify;
+	width: 90%;
+	margin-left: 10px;
+}
+.Parrafos {
+	margin-top: 30px;
+ 	font-family: Meiryo UI; 
+	text-align: justify;
+	background-color: #E4F4F7;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.ImgParrafo {
+	width: 930px;
+	position: absolute;
+	margin-right: 5px;
+	margin-bottom: 30px;
+	border: 2px solid #96107B;
+
+}
+.TexInsertado {
+	font-size: 20px;
+	color: black;
+	position: relative;
+	left: 610px;
+	top: 215px;
+}
+.PSpan {
+	width: 300px;
+	height: 290px;
+	opacity: .7;
+	color: black;
+	background-color: #B7B9B5;
+	padding: 15px;
+}
+/*Datos de Localizacion*/
+.BackFooter {
+	font-family: Arial Narrow;
+	font-size: 15px;
+	padding: 20px;
+	background-color: #580948;
+	color: white;
+	position: relative;
+	top: 300px;
+	border: 5px solid gray;
+}
